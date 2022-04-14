@@ -36,3 +36,4 @@ Support is offered on a "best effort" basis through the Flarum community thread.
 
 - [GitHub](https://github.com/clarkwinkelmann/flarum-ext-default-image-alt)
 - [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-default-image-alt)
+- [Discuss](https://discuss.flarum.org/d/30592)

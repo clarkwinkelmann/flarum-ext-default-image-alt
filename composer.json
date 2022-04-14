@@ -20,7 +20,8 @@
         }
     ],
     "support": {
-        "source": "https://github.com/clarkwinkelmann/flarum-ext-default-image-alt"
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-default-image-alt",
+        "forum": "https://discuss.flarum.org/d/30592"
     },
     "extra": {
         "flarum-extension": {
