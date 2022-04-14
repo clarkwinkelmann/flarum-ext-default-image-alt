@@ -1,6 +1,6 @@
 <?php
 
-namespace ClarkWinkelmann\NoEmailNotifications;
+namespace ClarkWinkelmann\DefaultImageAlt;
 
 use Flarum\Extend;
 use Flarum\Locale\Translator;
